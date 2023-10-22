@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    display: inline-flex;
+}
+aside{
+    display: flex;
+    justify-content: flex-start;
+    height: 100vh;
+    
+    
+}
+.card{
+    
+    width: 200px;
+    height: 100;
+    padding: 10px;
+    background-color: antiquewhite;
+
+    
+    
+}
+img{
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    object-position: center ;
+    border-radius: 10px;
+}
+h3{
+    padding-top: 50px;
+}
+    
+
+p{
+    padding-top: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+header{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+
+    
+}
+h2{
+    text-align: center;
+    
+}
+ul{
+    margin-top: 30px;
+}
+.experiencia h2{
+    margin-top: 20px;
+    
+}
+span{
+    font-size: 15px;
+    color: #068af7;
+}
